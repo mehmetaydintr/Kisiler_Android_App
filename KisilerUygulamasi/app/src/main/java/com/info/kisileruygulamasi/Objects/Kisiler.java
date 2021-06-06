@@ -1,4 +1,4 @@
-package com.info.kisileruygulamasi;
+package com.info.kisileruygulamasi.Objects;
 
 public class Kisiler {
 

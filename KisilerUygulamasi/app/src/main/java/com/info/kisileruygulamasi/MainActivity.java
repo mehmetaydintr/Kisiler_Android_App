@@ -14,9 +14,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.Toast;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.info.kisileruygulamasi.Adapters.KisilerAdapter;
+import com.info.kisileruygulamasi.DatabaseHelper.KisilerDao;
+import com.info.kisileruygulamasi.DatabaseHelper.Veritabani;
+import com.info.kisileruygulamasi.Objects.Kisiler;
 
 import java.util.ArrayList;
 

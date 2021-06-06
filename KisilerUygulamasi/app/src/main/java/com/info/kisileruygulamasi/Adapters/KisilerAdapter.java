@@ -1,4 +1,4 @@
-package com.info.kisileruygulamasi;
+package com.info.kisileruygulamasi.Adapters;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -10,13 +10,16 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.PopupMenu;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.snackbar.Snackbar;
+import com.info.kisileruygulamasi.DatabaseHelper.KisilerDao;
+import com.info.kisileruygulamasi.DatabaseHelper.Veritabani;
+import com.info.kisileruygulamasi.Objects.Kisiler;
+import com.info.kisileruygulamasi.R;
 
 import java.util.List;
 

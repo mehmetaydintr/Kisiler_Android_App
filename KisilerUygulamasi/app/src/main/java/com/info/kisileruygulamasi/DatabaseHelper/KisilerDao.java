@@ -1,8 +1,10 @@
-package com.info.kisileruygulamasi;
+package com.info.kisileruygulamasi.DatabaseHelper;
 
 import android.content.ContentValues;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+
+import com.info.kisileruygulamasi.Objects.Kisiler;
 
 import java.util.ArrayList;
 

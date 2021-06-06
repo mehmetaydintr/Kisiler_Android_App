@@ -1,4 +1,4 @@
-package com.info.kisileruygulamasi;
+package com.info.kisileruygulamasi.DatabaseHelper;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
